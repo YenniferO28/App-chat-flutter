@@ -1,4 +1,4 @@
-# yes_no_app
+# CHAT BOT> FLUTTER
 
 A new Flutter project.
 
